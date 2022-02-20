@@ -7,10 +7,44 @@
 
 
 ***********************************************************
+
+# About the Web App
+`Price Predictive System` is a web app build with StreamLit where we can predict the price of different items which includes `Car price`, `Gold price`,`Bitcoin price`,`Mobile price`,`Avocado price`
+
+## Structure
+
+- When we open the app we reach the home page where we have option to select whose price we want to know from the navigation bar.
+- All the predictive page is conneceted with a Machine Learning Model which uses different ML algorithm to predict the price
+- In the predictive page there are certain features which will be taken as input from the user.
+- After evaluation the featues the model predicts the price.
+- We can use it in real-world application
+
+***********************************************************
+
+## **🛠 &nbsp;Tech Stack**
+
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width="45" /> </a> 
+
+***********************************************************
+
+## Libraries Used
+
+<img src="https://img.shields.io/badge/numpy%20-%2314354C.svg?&style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas%20-%2314354C.svg?&style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/plotly%20-%2314354C.svg?&style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/streamlit%20-%2314354C.svg?&style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn%20-%2314354C.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+***********************************************************
+
 ## 🔴 This app is used to predict the price of these items-->
 
-- Car Price
-- Gold Price
-- Bitcoin Price
-- Mobile Price
-- Avocado Price
+| Items | Features |
+| - | - |
+| Car Price | Predict the price of Car |
+| Gold Price | Predict the price of Gold |
+| Bitcoin Price | Predict the price of Bitcoin |
+| Mobile Price | Predict the price of Mobile |
+| Avocado Price | Predict the price of Avocado |
+
+
+
+
+   
