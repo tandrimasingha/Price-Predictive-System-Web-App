@@ -38,11 +38,30 @@
 
 | Items | Features |
 | - | - |
-| Car Price | Predict the price of Car |
-| Gold Price | Predict the price of Gold |
-| Bitcoin Price | Predict the price of Bitcoin |
+| Car Price | Predict the price of Car with 89% accuracy|
+| Gold Price | Predict the price of Gold with 98%accuracy|
+| Bitcoin Price | Predict the price of Bitcoin with 99% accuracy|
 | Mobile Price | Predict the price of Mobile |
-| Avocado Price | Predict the price of Avocado |
+| Avocado Price | Predict the price of Avocado with 87% accuracy|
+
+***********************************************************
+## Deployment of the Project
+
+After the modeling part the model is deployed using Streamlit library on Streamlit Share so that the app is available for usage for everyone.
+
+
+***********************************************************
+
+Link to my WebApp ->>
+
+https://share.streamlit.io/tandrimasingha/price-predictive-system-web-app/main/app.py
+
+
+***********************************************************
+
+WebApp Visualization-->
+
+
 
 
 
