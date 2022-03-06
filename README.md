@@ -61,6 +61,15 @@ https://share.streamlit.io/tandrimasingha/price-predictive-system-web-app/main/a
 
 WebApp Visualization-->
 
+![image](https://user-images.githubusercontent.com/78292851/156927615-dd71fc16-aa3f-478b-a2e6-4d82dc4cb027.png)
+
+![image](https://user-images.githubusercontent.com/78292851/156927650-bea364f2-47a1-40de-895c-bf4e9b16375f.png)
+
+![image](https://user-images.githubusercontent.com/78292851/156927683-a89185bc-d852-48ce-aab3-8d13153b5e3e.png)
+
+![image](https://user-images.githubusercontent.com/78292851/156927701-34ce0b88-0ee8-46a8-b503-a64ff43b250b.png)
+
+
 
 
 
